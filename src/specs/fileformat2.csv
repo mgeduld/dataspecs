@@ -1,0 +1,4 @@
+"column name",width,datatype
+state,2,TEXT
+zip,5,TEXT
+phone,10,INTEGER

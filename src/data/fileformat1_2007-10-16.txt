@@ -1,0 +1,4 @@
+Percy     1  8
+Oscar     0100
+Bee       1200
+Fish      00
